@@ -410,6 +410,8 @@
               link: /docs/local-https/
             - title: Auditing with Lighthouse
               link: /docs/audit-with-lighthouse/
+            - title: Securing Your Blog
+              link: /docs/securing-your-blog
             - title: Adding a Manifest File
               link: /docs/add-a-manifest-file/
             - title: Adding Offline Support with a Service Worker
